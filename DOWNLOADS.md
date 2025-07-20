@@ -2,7 +2,7 @@
 
 ---
 
-WII ISO EXTRACTOR: https://wit.wiimm.de/ DOWNLOAD AND SETUP! THIS IS THE MOST IMPORTANT ONE!
-(Fixing others for V.1.2)
+- WII ISO EXTRACTOR: https://wit.wiimm.de/ DOWNLOAD AND SETUP! THIS IS THE MOST IMPORTANT ONE!
+- (Fixing others for V.1.2)
 
 ---
