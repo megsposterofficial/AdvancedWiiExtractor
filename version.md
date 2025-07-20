@@ -3,7 +3,7 @@
 ## V.1.1 - ADVANCED WII EXTRACTOR
 - Fixed "vgmstream-cli" not converting brstm files to mp3.
 - Application Fixes.
-- Note: When using "Advanced PC Output", application will become unresponsive for a few seconds to complete a few tasks.'
+- Note: When using "Advanced PC Output", application will become unresponsive for a few seconds to complete a few tasks.
 
 ---
 
